@@ -1,0 +1,6 @@
+{
+  "name": "PlanFamiliar SV - Tu Plan de Emergencia a la Medida",
+  "description": "Generador de planes familiares de emergencia personalizados para hogares en El Salvador ante sismos, inundaciones y deslizamientos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
